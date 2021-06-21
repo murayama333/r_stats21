@@ -11,10 +11,10 @@
     - [Rプログラミング - エクササイズ](ex/)
 * [Tidyverse](201.md)
     * [tibble](202.md)
-    * dplyr
+    * [dplyr](203.md)
     * ggplot2
-    * readr
     * tidyr
+    * readr
     * stringr
     * forcats
     * purrr
