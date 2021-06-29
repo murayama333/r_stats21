@@ -12,7 +12,7 @@
 * [Tidyverse](201.md)
     * [tibble](202.md)
     * [dplyr](203.md)
-    * ggplot2
+    * [ggplot2](204.md)
     * tidyr
     * readr
     * stringr
