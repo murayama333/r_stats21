@@ -13,8 +13,8 @@
     * [tibble](202.md)
     * [dplyr](203.md)
     * [ggplot2](204.md)
+    * [readr](205.md)
     * tidyr
-    * readr
     * stringr
     * forcats
     * purrr
