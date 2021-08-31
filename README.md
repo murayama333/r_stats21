@@ -9,6 +9,7 @@
     - [行列の操作](06.md)
     - [データフレームの操作](07.md)
     - [リストの操作](08.md)
+    - [ファクター型](09.md)
     - [Rプログラミング - エクササイズ](ex/)
 * [Tidyverse](201.md)
     * [tibble](202.md)
@@ -17,7 +18,7 @@
     * [readr](205.md)
     * [tidyr](206.md)
     * [stringr](207.md)
-    * forcats
+    * [forcats](208.md)
     * purrr
 
 * 記述統計
