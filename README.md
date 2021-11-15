@@ -24,7 +24,9 @@
     * [purrr](209.md)
 * [Shiny](401.md)
     * [Shinyアプリケーションの基本](402.md)
-    * UIの定義
+    * [UI Layout](403.md)
+    * [UI Inputs](404.md)
+    * UI Outputs / Rendering Functions
     * リアクティブプログラミング
 
 * 記述統計
