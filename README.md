@@ -26,7 +26,7 @@
     * [Shinyアプリケーションの基本](402.md)
     * [UI Layout](403.md)
     * [UI Inputs](404.md)
-    * UI Outputs / Rendering Functions
+    * [UI Outputs / Rendering Functions](405.md)
     * リアクティブプログラミング
 
 * 記述統計
